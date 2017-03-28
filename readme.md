@@ -2,6 +2,7 @@
  
  Chris McKelt  
  Billy Li  
- Bec Lange
- Peter Uong
- Ankit Shah
+ Bec Lange  
+ Peter Uong  
+ Ankit Shah  
+ 
